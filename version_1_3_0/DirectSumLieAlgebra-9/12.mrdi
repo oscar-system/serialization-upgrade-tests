@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":"DirectSumLieAlgebra","data":{"base_ring":{"_type":"QQField"},"summands":[],"attrs":{"is_abelian":{"_type":"Bool","data":"true"}}},"id":"163af438-698c-4e17-a394-0e00a8279dec"}
