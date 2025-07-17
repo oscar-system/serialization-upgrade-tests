@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":{"name":"SMat","params":"2e252933-6992-4c1e-a0f0-009f98200e0d"},"data":[[["1","1"],["2","2"]],[["1","3"],["2","4//5"]]],"_refs":{"2e252933-6992-4c1e-a0f0-009f98200e0d":{"_type":"SMatSpace","data":{"base_ring":{"_type":"QQField"},"ncols":"2","nrows":"2"}}}}

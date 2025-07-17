@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":{"name":"MatElem","params":"36769271-2f65-4a5b-9856-df98777efa80"},"data":[["1","3"],["4","2"]],"_refs":{"36769271-2f65-4a5b-9856-df98777efa80":{"_type":"MatSpace","data":{"base_ring":{"_type":"Nemo.zzModRing","data":"7"},"ncols":"2","nrows":"2"}}}}

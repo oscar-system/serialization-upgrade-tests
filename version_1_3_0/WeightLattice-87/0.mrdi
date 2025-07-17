@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":"WeightLattice","data":{"root_system":"0b4c0389-a1f0-4a4f-9be1-6c88b09047a2"},"id":"4feb14fd-66bd-4183-9250-9c0ab8c80b00","_refs":{"0b4c0389-a1f0-4a4f-9be1-6c88b09047a2":{"_type":"RootSystem","data":{"cartan_matrix":[],"type":[]}}}}

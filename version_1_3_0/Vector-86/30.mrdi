@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":{"name":"Vector","params":{"name":"FqFieldElem","params":"9cfabe3e-4ae2-4512-b3ad-c166b872f3bc"}},"data":["1","77777732222322222232222222222"],"_refs":{"9cfabe3e-4ae2-4512-b3ad-c166b872f3bc":{"_type":"FqField","data":"77777732222322222232222222223"}}}

@@ -1,0 +1,1 @@
+{"_ns":{"Oscar":["https://github.com/oscar-system/Oscar.jl","1.3.0-8330fc3d4e91f7d4c131bc5da019cf90a4d760a4"]},"_type":"PcGroup","data":{"X":"c8e63262-c246-4710-b9ce-0535b40c1def"},"id":"4b683864-07f8-4566-aa28-eb6d8b0e2df0","_refs":{"c8e63262-c246-4710-b9ce-0535b40c1def":{"_type":"GapObj","data":{"GapType":"IsPcGroup","relord":[],"power_rels":[],"comm_rels":[]}}}}
